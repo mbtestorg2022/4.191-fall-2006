@@ -7,6 +7,7 @@ image_metadata:
   caption: Dawood Rouben's perspective sketch.
   credit: 'Credit: Image courtesy of Dawood Rouben.'
   image-alt: Student work from Angela Watson's class, 4.191.
+parent_uid: 84387892-51bd-2244-b0a6-cb87a2592a2e
 resourcetype: Image
 title: Drouben.jpg
 uid: 39226461-e04e-1373-4878-2d609c0ef9ee

@@ -7,6 +7,7 @@ image_metadata:
   caption: Dawood Rouben's perspective of his pavilion.
   credit: 'Credit: Image courtesy of Dawood Rouben.'
   image-alt: Student work from Angela Watson's class, 4.191.
+parent_uid: eaccfa95-8c43-2f7a-6ba8-f57dc645f55d
 resourcetype: Image
 title: Crouben.jpg
 uid: 5d982ad9-5912-38f4-7fe9-9f561f853d6f

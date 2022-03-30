@@ -7,6 +7,7 @@ image_metadata:
   caption: Chin-Chin Yao's plan, section, and elevation of her pavilion.
   credit: 'Credit: Image courtesy of Chin-Chin Yao.'
   image-alt: Student work from Angela Watson's class, 4.191.
+parent_uid: eaccfa95-8c43-2f7a-6ba8-f57dc645f55d
 resourcetype: Image
 title: Cyao.jpg
 uid: 1062b8f0-3f3c-8182-4240-e666fdab2c71

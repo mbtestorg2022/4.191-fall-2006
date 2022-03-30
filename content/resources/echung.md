@@ -7,6 +7,7 @@ image_metadata:
   caption: Esther Chung's sketch models of her studio.
   credit: 'Credit: Image courtesy of Esther Chung.'
   image-alt: Student work from Angela Watson's class, 4.191.
+parent_uid: 24bd46e5-f8ba-40db-af56-23066190e565
 resourcetype: Image
 title: Echung.jpg
 uid: 30338c0d-4b99-780c-9fe3-cea36371a4cf

@@ -7,6 +7,7 @@ image_metadata:
   caption: Chin-Chin Yao's perspective sketch.
   credit: 'Credit: Image courtesy of Chin-Chin Yao.'
   image-alt: Student work from Angela Watson's class, 4.191.
+parent_uid: 84387892-51bd-2244-b0a6-cb87a2592a2e
 resourcetype: Image
 title: Dyao.jpg
 uid: b175aa74-e581-b8c0-fc3a-8d9214dcfe25

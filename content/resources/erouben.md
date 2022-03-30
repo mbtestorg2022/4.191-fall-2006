@@ -7,6 +7,7 @@ image_metadata:
   caption: Dawood Ruben's sketch models of his studio.
   credit: 'Credit: Image courtesy of Dawood Rouben.'
   image-alt: Student work from Angela Watson's class, 4.191.
+parent_uid: 24bd46e5-f8ba-40db-af56-23066190e565
 resourcetype: Image
 title: Erouben.jpg
 uid: b0e85864-ea63-a71d-fa56-397d081e57ed
